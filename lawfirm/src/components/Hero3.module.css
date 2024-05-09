@@ -1,0 +1,99 @@
+.header {
+    width: 1139px;
+height: 551px;
+top: 1441px;
+left: 146px;
+
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding: 1rem;
+margin-left: 50px;
+margin-right: 50px;
+
+}
+
+.firstchild {
+    width: 437px;
+height: 77px;
+top: 1441px;
+left: 512px;
+font-family: Inter;
+font-size: 54px;
+font-weight: 600;
+line-height: 77.23px;
+text-align: left;
+position: absolute;
+}
+
+.secondchild {
+    width: 1139px;
+height: 377px;
+top: 1615px;
+left: 146px;
+position: absolute;
+
+}
+
+.card {
+width: 559px;
+height: 377px;
+top: 0px;
+left: 0px;
+gap: 0px;
+border-radius: 14px ;
+border: 1.4px ;
+opacity: 0px;
+position: relative;
+ border: 1.4px solid rgba(255, 255, 255, 0.1);
+ background-color: var(--color-black);
+ color : var(--colour-white)
+}
+
+.cardp1 {
+    width: 215px;
+height: 24px;
+top: 157px;
+left: 23px;
+position: absolute;
+font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 24px;
+text-align: left;
+}
+
+.cardp2 {
+    width: 293px;
+    height: 69px;
+    left: 23px;
+    top: 207px;
+position: absolute;
+opacity: 30%;
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 22.75px;
+text-align: left;
+
+}
+
+.button {
+    background-color: peru;
+    width: 121px;
+height: 43px;
+top: 298px;
+left: 23px;
+border-radius: 23.5px ;
+position: absolute;
+
+}
+
+.image {
+    width: 101px;
+height: 101px;
+top: 28px;
+left: 23px;
+position: absolute;
+}

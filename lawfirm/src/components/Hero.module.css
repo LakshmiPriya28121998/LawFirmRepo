@@ -1,0 +1,90 @@
+
+.header {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: var(--color-black);
+    flex-wrap: wrap;
+}
+
+.firstp {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 66px;
+    width: 571px;
+    height: 194px;
+    top: 250px;
+    left: 156px;
+    position: absolute;
+}
+
+.secondp {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 18px;
+    width: 560px;
+    height: 99px;
+    top: 480px;
+    left: 158px;
+    opacity: 30%;
+    position: absolute;
+}
+
+.shape {
+    width: 467.71px;
+    height: 430.71px;
+    border-radius: 55px;
+    top: 249px;
+    left: 820px;
+    position: absolute;
+    background-color:peru
+    
+}
+
+.image {
+    /* height: 509.07px;
+    width: 443.51px;
+    top: 172px;
+    left: 832.32px; */
+    /* position: absolute; */
+    height: 509.07px;
+    width: 443.51px;
+    top: -77px;
+    left: -12px;
+    position: relative;
+}
+
+
+.rectangle {
+    width: 438px;
+height: 74px;
+top: 615px;
+left: 200px;
+gap: 0px;
+border-radius: 43px ;
+opacity: 0.1px;
+background-color: peru;
+position: absolute;
+
+}
+
+/* .smallrect {
+
+    width: 137px;
+height: 62px;
+top: 621px;
+left: 449px;
+gap: 0px;
+border-radius: 43px;
+opacity: 0px;
+position: absolute;
+background-color: peru;
+} */
+
+/* .divider {
+    background-color: white;
+} */

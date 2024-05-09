@@ -1,0 +1,13 @@
+.button {
+    background-color: var(--color-black);
+    color: var(--colour-white);
+    border-radius: 12px;
+    font-family: 'Inter'
+    
+   
+}
+
+.button :hover {
+    background-color: var(--color-black);
+    color: var(--colour-white);
+}

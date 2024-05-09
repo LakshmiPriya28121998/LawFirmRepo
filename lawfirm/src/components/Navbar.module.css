@@ -1,0 +1,30 @@
+.navbar {
+    background-color: var(--color-black);
+}
+
+.header {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 5vh;
+    background-color: var(--color-black);
+}
+
+
+.middle {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    width: 30%;
+    background-color: var(--color-black);
+    color: var(--colour-white);
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 16px;
+}
